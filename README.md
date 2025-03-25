@@ -2,6 +2,19 @@
 
 Coursework problems to connect fundamental concepts to cutting-edge research.
 
+
+### Contents
+- [Motivation](#motivation)
+- [List of Assignments by Subject](#list-of-assignments-by-subject)
+    - [Biomechanics](#biomechanics)
+    - [Continuum Mechanics](#continuum-mechanics)
+    - [Dynamics and Vibrations](#dynamics-and-vibrations)
+    - [Physics](#physics)
+    - [Statistics/Measurements](#statisticsmeasurements)
+- [Guide to Writing Problems from your Research](#guide-to-writing-problems-from-your-research)
+- [Contribute Your Assignments to this Repository](#contribute-your-assignments-to-this-repository)
+- [Bibliography](#bibliography)
+
 ## Motivation
 
 Engaging undergraduates in research has been shown to have numerous benefits for them.  Students exposed to research opportunities have increased rates of retention in their undergraduate programs and increased interest in graduate school [[1](https://doi.org/10.1126/science.1140384)], career confidence outside of academia [[2](https://www.researchgate.net/profile/Christopher-Madan/publication/256269033_The_Benefits_of_Undergraduate_Research_The_Student's_Perspective/links/00b7d5220d62626534000000/The-Benefits-of-Undergraduate-Research-The-Students-Perspective.pdf)], and increased skills in independent work, among many other benefits [[3](https://doi.org/10.1187/cbe.04-07-0045),[4](https://doi.org/10.21273/HORTTECH05130-22)].  Although the benefits of undergraduate involvement in research are well-established, many students face barriers to participation.  Lack of knowledge and confidence in their own ability to participate in research, lack of exposure to research in coursework, and greater priority placed by institutions on coursework compared to research are frequently cited as barriers to participation, particularly among underrepresented groups and students of color [[5](https://doi.org/10.1016/j.amsu.2022.104384),[6](https://doi.org/10.3390/socsci10090328)].
@@ -26,13 +39,13 @@ This repository serves as a database to consolidate existing assignment problems
 
 - Calculating affine deformation of an elliptical cell nucleus from experimental data. [Pakzadmanesh et al., 2024](https://doi.org/10.1115/1.4066002): *Mechanically Induced Deformation of Nuclei in the Tricuspid Valve Interstitial Cells: Experimental Measurements and Multi-scale Computational Simulation*.
 
-### Physics
-
-- Calculating velocity of a line due to a rotation. [Nwotchouang et al., 2020](https://doi.org/10.1002/mrm.28490): *Accuracy of Cardiac-induced Brain Motion Measurement Using Displacement-encoding With Stimulated Echoes (DENSE) Magnetic Resonance Imaging (MRI): A Phantom Study*.
-
 ### Dynamics and Vibrations
 
 - Calculating the natural frequency of a simplified 1DOF model of the brain. [Jennings et al., 2024](https://doi.org/10.1115/1.4067699): *Toward a Consistent Framework for Describing the Free Vibration Modes of the Brain*.
+
+### Physics
+
+- Calculating velocity of a line due to a rotation. [Nwotchouang et al., 2020](https://doi.org/10.1002/mrm.28490): *Accuracy of Cardiac-induced Brain Motion Measurement Using Displacement-encoding With Stimulated Echoes (DENSE) Magnetic Resonance Imaging (MRI): A Phantom Study*.
 
 ### Statistics/Measurements
 
@@ -53,7 +66,7 @@ The contents of this section provide general guidance on how to write an assignm
 
 We encourage authors to also cite this repository in the section containing their homework problem to increase the visibility of this resource to other researchers engaged in teaching.
 
-## Contributing
+## Contribute Your Assignments to this Repository
 
 Once you have an accepted manuscript with an assignemtn included, there are two options for you to add your research assignments to this repository:
 1. Contact the repository administrators.
