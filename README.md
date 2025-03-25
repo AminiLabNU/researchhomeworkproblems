@@ -2,6 +2,7 @@
 
 Coursework problems to connect fundamental concepts to cutting-edge research.
 
+[![DOI](https://zenodo.org/badge/954708023.svg)](https://doi.org/10.5281/zenodo.15085605)
 
 ### Contents
 - [Motivation](#motivation)
