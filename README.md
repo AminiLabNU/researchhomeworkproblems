@@ -32,6 +32,10 @@ This repository serves as a database to consolidate existing assignment problems
 
 - Calculating blood vessel stiffness and distensibility from experimental data. [Vargas et al., 2024](https://doi.org/10.1115/1.4064744): *Vascular Remodeling During Late-gestation Pregnancy: An In-vitro Assessment of the Murine Ascending Thoracic Aorta*.
 
+### Computational Mechanics
+
+- Inverse parameter physical parameter estimation through genetic algorithm implementation.  [Sebastian et al., 2025](https://doi.org/10.1115/1.4068677): *Image-Based Inverse Modeling Analysis of Iris Stiffness Across Sex in Patients With a History of Primary Angle-Closure Disease*.
+
 ### Continuum Mechanics
 
 - Calculating Cauchy-Green deformation tensor analytically for incompressible materials. [Thomas et al., 2019](https://doi.org/10.1016/j.actbio.2019.05.074): *A Computational Multi-scale Approach to Investigate Mechanically-induced Changes in Tricuspid Valve Anterior Leaflet Microstructure*.
